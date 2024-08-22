@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\migrations\\20240507141440_new_dataannotations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:migrations\\20240507141440_new_dataannotations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\models\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:models\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\pages\\series\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:pages\\series\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Migrations\\20240507140237_Rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240507140237_Rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\pages\\series\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:pages\\series\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\pages\\series\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:pages\\series\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\pages\\series\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:pages\\series\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\pages\\series\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:pages\\series\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\pages\\series\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:pages\\series\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\data\\zcb_seriescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:data\\zcb_seriescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\pages\\series\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:pages\\series\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\pages\\series\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:pages\\series\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\pages\\series\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:pages\\series\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\pages\\series\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:pages\\series\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\zcb_series.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:zcb_series.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|c:\\users\\computer\\source\\repos\\zcb_series\\migrations\\20240430142555_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC86C94-FEF3-4288-8642-D8BA955DCA72}|ZCB_Series.csproj|solutionrelative:migrations\\20240430142555_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240507141440_New_DataAnnotations.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Migrations\\20240507141440_New_DataAnnotations.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240507141440_New_DataAnnotations.cs",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Migrations\\20240507141440_New_DataAnnotations.cs",
+              "RelativeToolTip": "Migrations\\20240507141440_New_DataAnnotations.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:14:41.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Serie.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Models\\Serie.cs",
+              "RelativeDocumentMoniker": "Models\\Serie.cs",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Models\\Serie.cs",
+              "RelativeToolTip": "Models\\Serie.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:08:13.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240507140237_Rating.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Migrations\\20240507140237_Rating.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240507140237_Rating.cs",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Migrations\\20240507140237_Rating.cs",
+              "RelativeToolTip": "Migrations\\20240507140237_Rating.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:02:37.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Series\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Series\\Index.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAA1wDMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T14:12:47.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T15:10:22.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Series\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Series\\Index.cshtml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:12:47.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Series\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Series\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T14:48:46.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Series\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Series\\Delete.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T14:12:47.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Series\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Series\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T14:12:47.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Series\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Series\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T14:12:46.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA1wDcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:37:18.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ZCB_SeriesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Data\\ZCB_SeriesContext.cs",
+              "RelativeDocumentMoniker": "Data\\ZCB_SeriesContext.cs",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Data\\ZCB_SeriesContext.cs",
+              "RelativeToolTip": "Data\\ZCB_SeriesContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:12:46.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:12:46.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T15:14:30.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:03:52.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Series\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Series\\Create.cshtml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:12:46.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Series\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Series\\Details.cshtml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIBAwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:12:47.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Series\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Series\\Delete.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:12:47.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240430142555_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Migrations\\20240430142555_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240430142555_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Migrations\\20240430142555_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240430142555_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:25:56.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Series\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\Pages\\Series\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Series\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:12:46.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ZCB_Series.csproj",
+              "DocumentMoniker": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\ZCB_Series.csproj",
+              "RelativeDocumentMoniker": "ZCB_Series.csproj",
+              "ToolTip": "C:\\Users\\Computer\\source\\repos\\ZCB_Series\\ZCB_Series.csproj",
+              "RelativeToolTip": "ZCB_Series.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T14:05:04.034Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ZCB_Series
+build_property.RootNamespace = ZCB_Series
+build_property.ProjectDir = /Users/dogukanbayar/Downloads/Int_Web_GRUP_2-1/ZCB_Series/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/dogukanbayar/Downloads/Int_Web_GRUP_2-1/ZCB_Series
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/dogukanbayar/Downloads/Int_Web_GRUP_2-1/ZCB_Series/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dogukanbayar/Downloads/Int_Web_GRUP_2-1/ZCB_Series/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dogukanbayar/Downloads/Int_Web_GRUP_2-1/ZCB_Series/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dogukanbayar/Downloads/Int_Web_GRUP_2-1/ZCB_Series/Pages/Series/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VyaWVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dogukanbayar/Downloads/Int_Web_GRUP_2-1/ZCB_Series/Pages/Series/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VyaWVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dogukanbayar/Downloads/Int_Web_GRUP_2-1/ZCB_Series/Pages/Series/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VyaWVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dogukanbayar/Downloads/Int_Web_GRUP_2-1/ZCB_Series/Pages/Series/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VyaWVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dogukanbayar/Downloads/Int_Web_GRUP_2-1/ZCB_Series/Pages/Series/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VyaWVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dogukanbayar/Downloads/Int_Web_GRUP_2-1/ZCB_Series/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dogukanbayar/Downloads/Int_Web_GRUP_2-1/ZCB_Series/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dogukanbayar/Downloads/Int_Web_GRUP_2-1/ZCB_Series/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dogukanbayar/Downloads/Int_Web_GRUP_2-1/ZCB_Series/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nzaohilw9p
